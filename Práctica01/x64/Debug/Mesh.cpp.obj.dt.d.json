@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ayala\\onedrive\\documentos\\labcgihc\\labcgihc\\labcgihc\\mesh.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\ayala\\onedrive\\documentos\\labcgihc\\labcgihc\\labcgihc\\mesh.h",
+            "c:\\users\\ayala\\onedrive\\documentos\\labcgihc\\labcgihc\\labcgihc\\include\\glew.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\um\\gl\\glu.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\shared\\winapifamily.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\shared\\winpackagefamily.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\um\\gl\\gl.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
