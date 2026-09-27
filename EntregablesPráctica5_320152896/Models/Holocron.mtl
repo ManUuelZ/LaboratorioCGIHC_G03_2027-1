@@ -1,0 +1,48 @@
+# Blender 5.0.1 MTL File: 'RoverHolocron.blend'
+# www.blender.org
+
+newmtl Crystal.001
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Holocron_Corners.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Corners_Roughness.jpg
+map_refl C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Corners_Metallic.jpg
+map_Bump -bm 1.000000 C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Corners_Normal.jpg
+
+newmtl Holocron_Inside.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Inside_Roughness.jpg
+map_refl C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Inside_Metallic.jpg
+map_d C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Inside_Opacity.jpg
+map_Bump -bm 1.000000 C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Inside_Normal.jpg
+
+newmtl Holocron_Main.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Main_Roughness.jpg
+map_refl C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Main_Metallic.jpg
+map_d C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Main_Opacity.jpg
+map_Bump -bm 1.000000 C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Main_Normal.jpg
