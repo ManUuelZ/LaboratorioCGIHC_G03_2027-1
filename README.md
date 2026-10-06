@@ -8,4 +8,7 @@
 - **GRUPO DE TEORÍA:** 07
 - **SEMESTRE 2027-1**
 
+## Link del video: 
+
+https://drive.google.com/drive/folders/1wvQfQUevcjjhDfMSK6Ipc_QrJPDgz2Ex
 
